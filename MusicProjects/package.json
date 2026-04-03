@@ -1,0 +1,22 @@
+{
+  "name": "musicprojects",
+  "version": "1.0.0",
+  "description": "CLI para conversao e analise de arquivos de audio.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "audio",
+    "ffmpeg",
+    "cli",
+    "music"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "ffmpeg-static": "^5.2.0",
+    "fft-js": "^0.0.12",
+    "youtube-dl-exec": "^3.1.4"
+  }
+}

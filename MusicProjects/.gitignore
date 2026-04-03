@@ -1,0 +1,5 @@
+node_modules
+src/outputMusics/*
+!src/outputMusics/.gitkeep
+src/downloads/*
+!src/downloads/.gitkeep
