@@ -3,3 +3,5 @@ src/outputMusics/*
 !src/outputMusics/.gitkeep
 src/downloads/*
 !src/downloads/.gitkeep
+src/inputMusics/*
+!src/inputMusics/.gitkeep
